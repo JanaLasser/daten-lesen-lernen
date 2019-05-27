@@ -1,8 +1,14 @@
-# Übersicht
-Autoren: Jana Lasser, [Zentrum für Statistik](https://www.uni-goettingen.de/de/zentrum+f%C3%BCr+statistik+%28zfs%29/54578.html) und [Max Planck Institut für Dynamik und Selbstorganisation](https://www.ds.mpg.de/) (jana.lasser@ds.mpg.de)
-Inhalt: Lehrmaterialien zum Erlernen der Grundlagen des Umganges mit Daten mit Hilfe von Python
+# Autoren: 
+* Jana Lasser, [Zentrum für Statistik](https://www.uni-goettingen.de/de/zentrum+f%C3%BCr+statistik+%28zfs%29/54578.html) und [Max Planck Institut für Dynamik und Selbstorganisation](https://www.ds.mpg.de/) (jana.lasser@ds.mpg.de)
+* Debsankha Manik 
+* Maximilian Vossel
+* Florian Habenstein
+* Moritz Becker
 
-Repository für die Übungsblätter und Lösungen die begleitend zur Vorlesung "Daten Lesen Lernen" im SoSe 2019 an der Universität Göttingen durchgeführt werden.
+# Inhalt
+Lehrmaterialien zum Erlernen der Grundlagen des Umganges mit Daten mit Hilfe von Python.
+
+Repository für die Übungsaufgaben und Lösungen die begleitend zur Vorlesung "Daten Lesen Lernen" im SoSe 2019 an der Universität Göttingen durchgeführt werden.
 
 Die Lehrmaterialien entstehen im Zuge einer Förderung des [Stifterverbandes](https://www.stifterverband.org) zur Förderung der [Data Literacy Education](https://www.stifterverband.org/data-literacy-education) an Deutschen Hochschulen.
 
@@ -37,25 +43,25 @@ Die jeweils behandelten Datensätze sind
 * Archäologie: Daten zu Funden von antiker Töpferware im Mittelmeerraum
 * Allgemein: Datensätze mit Tweets von "normalen" Usern, russischen Trollen und Donald Trump
 
-## Übung 05
-* Wirtschaftswissenschaften: 
-* Ägyptologie:  
-* Archäologie: 
-* Allgemein: 
+## Übung 05 Daten finden, einlesen und mit Histogrammen visualisieren¶
+* Wirtschaftswissenschaften: DONE
+* Archäologie: DONE
+* Allgemein: DONE
+* Ägyptologie: DONE
 * Soziologie: TODO
 
 ## Übung 06
-* Wirtschaftswissenschaften: 
+* Wirtschaftswissenschaften: Histogramme und Zeitreihen
+* Archäologie: Histogramme, deskriptive Statistik und Zeitreihen
+* Allgemein: Histogramme und Zeitreihen
 * Ägyptologie: TODO
-* Archäologie: TODO
-* Allgemein: TODO
 * Soziologie: TODO
 
 ## Übung 07
-* Wirtschaftswissenschaften: 
-* Ägyptologie:  
-* Archäologie: 
-* Allgemein: 
+* Wirtschaftswissenschaften: Mittelwert, Median und Standardabweichung 
+* Archäologie: TODO 
+* Allgemein: TODO 
+* Ägyptologie: TODO 
 * Soziologie: TODO
 
 ## Übung 08
