@@ -43,11 +43,11 @@ Die jeweils behandelten Datensätze sind
 * Archäologie: Daten zu Funden von antiker Töpferware im Mittelmeerraum
 * Allgemein: Datensätze mit Tweets von "normalen" Usern, russischen Trollen und Donald Trump
 
-## Übung 05 Daten finden, einlesen und mit Histogrammen visualisieren¶
-* Wirtschaftswissenschaften: DONE
-* Archäologie: DONE
-* Allgemein: DONE
-* Ägyptologie: DONE
+## Übung 05 
+* Wirtschaftswissenschaften: Daten finden, einlesen und mit Histogrammen visualisieren¶
+* Archäologie: Daten finden, einlesen und mit Histogrammen visualisieren¶
+* Allgemein: Daten finden, einlesen und mit Histogrammen visualisieren¶
+* Ägyptologie: Daten finden, einlesen und mit Histogrammen visualisieren¶
 * Soziologie: TODO
 
 ## Übung 06
@@ -65,14 +65,14 @@ Die jeweils behandelten Datensätze sind
 * Soziologie: TODO
 
 ## Übung 08
-* Wirtschaftswissenschaften: 
+* Wirtschaftswissenschaften: TODO 
 * Ägyptologie: TODO
 * Archäologie: TODO
 * Allgemein: TODO
 * Soziologie: TODO
 
 ## Übung 09
-* Wirtschaftswissenschaften: 
+* Wirtschaftswissenschaften: TODO 
 * Ägyptologie: TODO 
 * Archäologie: TODO
 * Allgemein: TODO
