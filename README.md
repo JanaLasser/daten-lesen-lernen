@@ -15,7 +15,7 @@ Die Lehrmaterialien entstehen im Zuge einer Förderung des [Stifterverbandes](ht
 # Inhalt
 ## Übung 00 
 * Umgang mit Jupyter-Notebooks  
-[Notebook]((https://github.com/JanaLasser/daten-lesen-lernen/blob/master/00_einfuehrung_jupyter_notebooks.ipynb)
+[Notebook](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/00_einfuehrung_jupyter_notebooks.ipynb)
 
 ## Übung 01
 * Python als Taschenrechner  
