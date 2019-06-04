@@ -44,36 +44,30 @@ Die jeweils behandelten Datensätze sind
 * Allgemein: Datensätze mit Tweets von "normalen" Usern, russischen Trollen und Donald Trump
 
 ## Übung 05 
-* Wirtschaftswissenschaften: Daten finden, einlesen und mit Histogrammen visualisieren¶
-* Archäologie: Daten finden, einlesen und mit Histogrammen visualisieren¶
-* Allgemein: Daten finden, einlesen und mit Histogrammen visualisieren¶
-* Ägyptologie: Daten finden, einlesen und mit Histogrammen visualisieren¶
+* Allgemein: Daten finden, einlesen und mit Histogrammen visualisieren
+* Wirtschaftswissenschaften: Daten finden, einlesen und mit Histogrammen visualisieren
+* Archäologie: Daten finden, einlesen und mit Histogrammen visualisieren
+* Ägyptologie: Daten finden, einlesen und mit Histogrammen visualisieren
 * Soziologie: TODO
 
 ## Übung 06
+* Allgemein: Histogramme und Zeitreihen
 * Wirtschaftswissenschaften: Histogramme und Zeitreihen
 * Archäologie: Histogramme, deskriptive Statistik und Zeitreihen
-* Allgemein: Histogramme und Zeitreihen
 * Ägyptologie: TODO
 * Soziologie: TODO
 
 ## Übung 07
+* Allgemein: Hashtags
 * Wirtschaftswissenschaften: Mittelwert, Median und Standardabweichung 
-* Archäologie: TODO 
-* Allgemein: TODO 
+* Archäologie: Visualisierung über einer Landkarte  
 * Ägyptologie: TODO 
 * Soziologie: TODO
 
 ## Übung 08
-* Wirtschaftswissenschaften: TODO 
-* Ägyptologie: TODO
+* Allgemein: All the best words...
+* Wirtschaftswissenschaften: Bruttoinlandsprodukt und Inferenz 
 * Archäologie: TODO
-* Allgemein: TODO
+* Ägyptologie: TODO
 * Soziologie: TODO
 
-## Übung 09
-* Wirtschaftswissenschaften: TODO 
-* Ägyptologie: TODO 
-* Archäologie: TODO
-* Allgemein: TODO
-* Soziologie: TODO
