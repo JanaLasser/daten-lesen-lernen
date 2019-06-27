@@ -70,9 +70,9 @@ Die jeweils behandelten Datensätze sind
 * Soziologie: TODO
 
 ## Übung 08
-* Allgemein: [All the best words...](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_allgemein.ipynb)
-* Wirtschaftswissenschaften: [Bruttoinlandsprodukt und Inferenz](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_wirtschaftswissenschaften.ipynb)
-* Archäologie: [Werden die Gefäße Größer?](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_archaeologie.ipynb)
+* Allgemein: [All the best words...](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_allgemein.ipynb) - [Lösung](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_allgemein_loesung.ipynb)
+* Wirtschaftswissenschaften: [Bruttoinlandsprodukt und Inferenz](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_wirtschaftswissenschaften.ipynb) - [Lösung](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_wirtschaftswissenschaften_loesung.ipynb)
+* Archäologie: [Werden die Gefäße größer?](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/08_uebung_archaeologie.ipynb) - [Lösung](https://github.com/JanaLasser/daten-lesen-lernen/blob/master/07_uebung_archaeologie_loesung.ipynb)
 * Ägyptologie: TODO
 * Soziologie: TODO
 
